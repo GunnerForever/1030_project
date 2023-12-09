@@ -1,7 +1,7 @@
 # A Quantitative Test for SARS-Cov-2 Infection
 
 ### This is the repository for Zefeng Xu's DATA 1030 Final Project at Brown University. <br>
-This project aims to add a quantitative approach to the testing and diagnosis of COVID-19 by using gene expression data. <br>
+This project aims to add a quantitative approach to the testing and diagnosis of COVID-19 using gene expression data. <br>
 This project is to solve a binary classification problem of whether a patient is or is not infected with COVID-19 using data from Gene Expression Omnibus (GEO) database. <br>
 
 Below is the structure of this repository. <br>
@@ -13,7 +13,7 @@ Below is the structure of this repository. <br>
 └── README.md      <br>
 
 data/ <br>
-Directory contains only the file containing target labels of this project.  <br>
+Directory contains only the file containing target labels of this project (manually collected).  <br>
 File containing the feature matrix is too large and please read below in Section **Data** for the way to download it. <br>
 
 figures/ <br>
