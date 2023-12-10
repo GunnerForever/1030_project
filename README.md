@@ -35,7 +35,7 @@ To download the feature matrix, follow the below steps. <br>
 3. Download the one with file name **GSE212041_Neutrophil_RNAseq_TPM_Matrix.txt.gz**. <br>
 4. Unzip it and you will find a .txt file with name **TPM_S1G.txt**. <br>
 5. This file contains 60640 rows and 781 columns and is the original feature matrix. <br>
-Note that this feature matrix is transposed since 60640 is the number of genes and 781 is the number of samples. <br>
+Note that this feature matrix is transposed in this project since 60640 is the number of genes and 781 is the number of samples. <br>
 
 ## Dependency
 The developing environment used for this project is **Anaconda with Python 3.10**. <br>
