@@ -1,8 +1,8 @@
 # A Quantitative Test for SARS-Cov-2 Infection
 
 ### This is the repository for Zefeng Xu's DATA 1030 Final Project at DSI, Brown University. <br>
-This project aims to add a quantitative approach to the testing and diagnosis of COVID-19 using gene expression data. <br>
-This project is to solve a binary classification problem of whether a patient is or is not infected with COVID-19 using data from Gene Expression Omnibus (GEO) database. <br>
+This project aims to add a quantitative approach to the testing and diagnosis of COVID-19 using gene expression data apart from biological approaches such as Nucleic Acid Tests. <br>
+This project is to solve a binary classification problem of whether a patient is infected with COVID-19 using data from Gene Expression Omnibus (GEO) database. <br>
 The methods and algorithms used are subject to further modification and tuning because the results are not good enough. <br>
 To reproduce the results, please read below. <br>
 
