@@ -20,7 +20,7 @@ This directory only contains the file of target labels of this project (manually
 File containing the feature matrix is too large and please read below in Section **Data** for the way to download it. <br>
 
 figures/ <br>
-This directory contains all figures generated in this project and all of them except one are used in the final report. <br>
+This directory contains all figures generated in this project. <br>
 
 report/ <br>
 This directory contains the pdf version of the final report of this project. <br>
