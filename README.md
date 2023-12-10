@@ -7,13 +7,15 @@ The methods and algorithms used are subject to further modification and tuning b
 To reproduce the results, please read below. <br>
 
 Below is the structure of this repository. <br>
-├── data/          <br>
-├── figures/       <br>
-├── report/        <br>
-├── results/       <br>
-├── src/           <br>
-├── LICENSE        <br>
-└── README.md      <br>
+├── data/            <br>
+├── figures/         <br>
+├── report/          <br>
+├── results/         <br>
+├── src/             <br>
+├── .gitignore       <br>
+├── LICENSE          <br>
+├── requirements.yml <br>
+└── README.md        <br>
 
 data/ <br>
 This directory only contains the file of target labels of this project (manually collected).  <br>
@@ -46,6 +48,7 @@ To download the feature matrix, follow the below steps. <br>
 ## Dependency
 The developing environment used for this project is **Anaconda with Python 3.10.12**. <br>
 Below are the major packages and their versions used. <br>
+There is a requirements.yml file in the root directory for ease of use. <br>
 - numpy 1.26.2 <br>
 - scipy 1.11.4 <br>
 - scikit-learn 1.2.2 <br>
