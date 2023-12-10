@@ -1,31 +1,36 @@
 # A Quantitative Test for SARS-Cov-2 Infection
 
-### This is the repository for Zefeng Xu's DATA 1030 Final Project at Brown University. <br>
+### This is the repository for Zefeng Xu's DATA 1030 Final Project at DSI, Brown University. <br>
 This project aims to add a quantitative approach to the testing and diagnosis of COVID-19 using gene expression data. <br>
 This project is to solve a binary classification problem of whether a patient is or is not infected with COVID-19 using data from Gene Expression Omnibus (GEO) database. <br>
+The methods and algorithms used are subject to further modification and tuning because the results are not good enough. <br>
+To reproduce the results, please read below. <br>
 
 Below is the structure of this repository. <br>
 ├── data/          <br>
 ├── figures/       <br>
+├── results/       <br>
 ├── report/        <br>
 ├── src/           <br>
 ├── LICENSE        <br>
 └── README.md      <br>
 
 data/ <br>
-Directory contains only the file containing target labels of this project (manually collected).  <br>
+This directory only contains the file of target labels of this project (manually collected).  <br>
 File containing the feature matrix is too large and please read below in Section **Data** for the way to download it. <br>
 
 figures/ <br>
 This directory contains all figures generated in this project and all of them except one are used in the final report. <br>
+
+results/ <br>
+This directory stores all saved models, tuned parameters, test scores, and the respective training and testing sets from cross validation. <br>
 
 report/ <br>
 This directory contains the pdf version of the final report of this project. <br>
 
 src/ <br>
 This directory contains source code for both the midterm and final presentations. <br>
-The latter one contains the most important results. <br>
-To reproduce the results, please first read the section **Dependency** before any downloads. <br>
+The latter one contains the most recent and important results. <br>
 
 ## Data
 The feature matrix file is publicly available on GEO website with dataset ID GSE212041. <br>
