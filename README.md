@@ -9,8 +9,8 @@ To reproduce the results, please read below. <br>
 Below is the structure of this repository. <br>
 ├── data/          <br>
 ├── figures/       <br>
-├── results/       <br>
 ├── report/        <br>
+├── results/       <br>
 ├── src/           <br>
 ├── LICENSE        <br>
 └── README.md      <br>
@@ -22,11 +22,11 @@ File containing the feature matrix is too large and please read below in Section
 figures/ <br>
 This directory contains all figures generated in this project and all of them except one are used in the final report. <br>
 
-results/ <br>
-This directory stores all saved models, tuned parameters, test scores, and the respective training and testing sets from cross validation. <br>
-
 report/ <br>
 This directory contains the pdf version of the final report of this project. <br>
+
+results/ <br>
+This directory stores all saved models, tuned parameters, test scores, and the respective training and testing sets from cross validation. <br>
 
 src/ <br>
 This directory contains source code for both the midterm and final presentations. <br>
