@@ -14,8 +14,8 @@ Below is the structure of this repository. <br>
 ├── src/             <br>
 ├── .gitignore       <br>
 ├── LICENSE          <br>
-├── requirements.yml <br>
-└── README.md        <br>
+├── README.md        <br>
+└── requirements.yml <br>
 
 data/ <br>
 This directory only contains the file of target labels of this project (manually collected).  <br>
@@ -33,6 +33,9 @@ This directory stores all saved models, tuned parameters, train/test scores, and
 src/ <br>
 This directory contains source code for both the midterm and final presentations. <br>
 The latter one contains the most recent and important results. <br>
+
+.gitignore file contains the files/directories that should be ignored by Git when making commits. <br>
+LICENSE file contains information
 
 ## Data
 The feature matrix file is publicly available on GEO website with dataset ID GSE212041. <br>
@@ -57,6 +60,11 @@ There is a requirements.yml file in the root directory for ease of use. <br>
 - xgboost 2.0.2
 - scanpy 1.9.5
 
+## Author
+Zefeng Xu (zefeng_xu@brown.edu)
+
+## License
+This project is licensed under the MIT License.
 
 
 
