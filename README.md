@@ -34,9 +34,6 @@ src/ <br>
 This directory contains source code for both the midterm and final presentations. <br>
 The latter one contains the most recent and important results. <br>
 
-.gitignore file contains the files/directories that should be ignored by Git when making commits. <br>
-LICENSE file contains information
-
 ## Data
 The feature matrix file is publicly available on GEO website with dataset ID GSE212041. <br>
 To download the feature matrix, follow the below steps. <br>
