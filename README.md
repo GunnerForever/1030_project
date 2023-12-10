@@ -3,6 +3,7 @@
 ### This is the repository for Zefeng Xu's DATA 1030 Final Project at DSI, Brown University. <br>
 This project aims to add a quantitative approach to the testing and diagnosis of COVID-19 using gene expression data. Other approaches include biological analyses such as Nucleic Acid Tests. <br>
 This project is to solve a binary classification problem of whether a patient is infected with COVID-19 using data from Gene Expression Omnibus (GEO) database. <br>
+
 To reproduce the results, please read below. <br>
 
 Below is the structure of this repository. <br>
