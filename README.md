@@ -26,7 +26,7 @@ report/ <br>
 This directory contains the pdf version of the final report of this project. <br>
 
 results/ <br>
-This directory stores all saved models, tuned parameters, test scores, and the respective training and testing sets from cross validation. <br>
+This directory stores all saved models, tuned parameters, train/test scores, and corresponding training and testing sets from cross validation. <br>
 
 src/ <br>
 This directory contains source code for both the midterm and final presentations. <br>
