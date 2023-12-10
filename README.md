@@ -31,7 +31,7 @@ results/ <br>
 This directory stores all saved models, tuned parameters, train/test scores, and corresponding training and testing sets from cross validation. <br>
 
 src/ <br>
-This directory contains source code for both the midterm and final presentations. <br>
+This directory contains source code for both the midterm and final presentations, and the final report. <br>
 The latter one contains the most recent and important results. <br>
 
 ## Data
