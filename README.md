@@ -7,19 +7,19 @@ This project is to solve a binary classification problem of whether a patient is
 To reproduce the results, please read below. <br>
 
 Below is the structure of this repository. <br>
-├── data/                     <br>
-<blockquote>
-├── preprocessed/             <br>
-└── labels.csv                <br>
-├── figures/                  <br>
-├── report/                   <br>
-├── results/                  <br>
-├── src/                      <br>
-├── .gitignore                <br>
-├── LICENSE                   <br>
-├── README.md                 <br>
-└── requirements.yml          <br>
-
+```
+├── data/                     
+    ├── preprocessed/             
+    └── labels.csv                
+├── figures/                  
+├── report/                   
+├── results/                  
+├── src/                      
+├── .gitignore                
+├── LICENSE                   
+├── README.md                 
+└── requirements.yml          
+```
 data/ <br>
 This directory contains both raw and preprocessed feature matrix and target label files. <br>
 Raw file containing all labels at in labels.csv at root of data/. <br>
