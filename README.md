@@ -23,7 +23,7 @@ Below is the structure of this repository. <br>
 data/ <br>
 This directory contains both raw and preprocessed feature matrix and target label files. <br>
 Raw file containing all labels at in labels.csv at root of data/. <br>
-Preprocessed X_train, X_test, y_train, y_test for each of the 10 random states are stored in data/preprocessed subdirectory. <br>
+Preprocessed X_train, X_test, y_train, y_test for each of the 10 random states are stored in data/preprocessed. <br>
 File containing the original feature matrix is too large to store as a single file so is not present here. <br>
 Please read below in Section **Data** for the way to download the raw feature matrix. <br>
 
