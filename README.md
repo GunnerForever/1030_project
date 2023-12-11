@@ -7,19 +7,24 @@ This project is to solve a binary classification problem of whether a patient is
 To reproduce the results, please read below. <br>
 
 Below is the structure of this repository. <br>
-├── data/            <br>
-├── figures/         <br>
-├── report/          <br>
-├── results/         <br>
-├── src/             <br>
-├── .gitignore       <br>
-├── LICENSE          <br>
-├── README.md        <br>
-└── requirements.yml <br>
+├── data/                     <br>
+    ├── preprocessed/         <br>
+    └── labels.csv            <br>
+├── figures/                  <br>
+├── report/                   <br>
+├── results/                  <br>
+├── src/                      <br>
+├── .gitignore                <br>
+├── LICENSE                   <br>
+├── README.md                 <br>
+└── requirements.yml          <br>
 
 data/ <br>
-This directory only contains the file of target labels of this project (manually collected).  <br>
-File containing the feature matrix is too large and please read below in Section **Data** for the way to download it. <br>
+This directory contains both raw and preprocessed feature matrix and target label files. <br>
+Raw file containing all labels at in labels.csv at root of data/. <br>
+Preprocessed X_train, X_test, y_train, y_test for each of the 10 random states are stored in data/preprocessed subdirectory. <br>
+File containing the original feature matrix is too large to store as a single file so is not present here. <br>
+Please read below in Section **Data** for the way to download the raw feature matrix. <br>
 
 figures/ <br>
 This directory contains all figures generated in this project. <br>
