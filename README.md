@@ -8,8 +8,8 @@ To reproduce the results, please read below. <br>
 
 Below is the structure of this repository. <br>
 ├── data/                     <br>
-&emsp├── preprocessed/         <br>
-&emsp└── labels.csv            <br>
+&emsp;├── preprocessed/         <br>
+&emsp;└── labels.csv            <br>
 ├── figures/                  <br>
 ├── report/                   <br>
 ├── results/                  <br>
