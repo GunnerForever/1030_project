@@ -11,7 +11,7 @@ Below is the structure of this repository. <br>
 <blockquote>
 ├── preprocessed/             <br>
 └── labels.csv                <br>
-<blockquote\>
+<\blockquote>
 ├── figures/                  <br>
 ├── report/                   <br>
 ├── results/                  <br>
